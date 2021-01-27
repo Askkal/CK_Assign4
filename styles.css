@@ -37,6 +37,14 @@ body {
 .time {
   text-align: center;
 }
+.caption {
+  text-align: center;
+}
+
+#footer {
+  text-align: center;
+}
+
 #img-caption {
 
      max-width: 300px;

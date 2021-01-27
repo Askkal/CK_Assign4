@@ -1,0 +1,91 @@
+/* Author: Caleb Salzwedel-Kemp, Title: Calebs Tribute Page, Date: 1/18/2021 */
+
+body {
+   background: linear-gradient(to right, teal, rgb(148, 154, 211));
+   font-family: Courier New;
+   font-size: 20px;
+   color: inherit;
+ }
+
+.heading {
+  color: white;
+  margin: auto;
+  font-size: 50px;
+  padding: 1rem;
+  text-align: center;
+}
+
+.list {
+  font-size: 20px;
+  text-align: center;
+  margin: auto;
+
+}
+
+.paragraph {
+      font-family: italic;
+      font-size: 20px;
+      width: 500px;
+      display: block;
+      position: relative;
+      text-align: center;
+      margin: auto;
+}
+.footer {
+  text-align: center;
+}
+.time {
+  text-align: center;
+}
+#img-caption {
+
+     max-width: 300px;
+     display: block;
+     font-size: 20px;
+     margin: auto;
+     position: relative;
+     padding: 1rem;
+
+
+
+    }
+    #p2 {
+      margin-bottom: 5%;
+    }
+
+#uni {
+      max-width: 50%;
+      display: block;
+      margin: auto;
+
+      position: relative;
+      background: linear-gradient(to left, teal, rgb( 148, 154, 211));
+      padding: 5px;
+      border-radius: 300px;
+}
+
+#circus-info {
+  padding-bottom: 50px;
+}
+#list-head {
+  font-size: 45px;
+  display: block;
+  margin: auto;
+}
+#two-image {
+  max-width: 40%;
+  display: block;
+  margin: auto;
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(to left, teal, rgb( 148, 154, 211));
+  padding: 5px;
+  border-radius: 300px;
+}
+#tribute-info {
+  width: 300px;
+  font-size: 20px;
+  margin: auto;
+  position: relative;
+  padding-left: 1%
+}
